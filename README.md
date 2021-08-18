@@ -1,10 +1,10 @@
 
 # Simple Store Locator with Google Maps
 
-These are the resource files needed for the [Simple Store Locator with Google Maps](https://codelabs.developers.google.com/codelabs/google-maps-simple-store-locator/)
+These are the resource files needed for the [Simple Store Locator with Google Maps](https://developers.google.com/codelabs/maps-platform/google-maps-simple-store-locator)
 code lab from Google.
 
-## Introduction for the [Simple Store Locator with Google Maps](https://codelabs.developers.google.com/codelabs/google-maps-simple-store-locator/)
+## Introduction for the [Simple Store Locator with Google Maps](https://developers.google.com/codelabs/maps-platform/google-maps-simple-store-locator)
 
 One of the most common features of a website is displaying a [Google Map](https://developers.google.com/maps/) that highlights one or more locations for a business, institution, or any kind of entity with a physical presence. How these are implemented can vary greatly depending on requirements, such as the number of locations, and the frequency with which they change.
 
