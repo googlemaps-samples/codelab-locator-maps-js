@@ -145,7 +145,7 @@ function initMap() {
       <div style="margin-left:220px; margin-bottom:20px;">
         <h2>${name}</h2><p>${description}</p>
         <p><b>Open:</b> ${hours}<br/><b>Phone:</b> ${phone}</p>
-        <p><img src="https://maps.googleapis.com/maps/api/streetview?size=350x120&location=${position.lat()},${position.lng()}&key=${apiKey}"></p>
+        <p><img src="https://maps.googleapis.com/maps/api/streetview?size=350x120&location=${position.lat()},${position.lng()}&key=${apiKey}&solution_channel=GMP_codelabs_simplestorelocator_v1_a"></p>
       </div>
       `;
 
